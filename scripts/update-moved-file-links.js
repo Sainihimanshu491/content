@@ -142,4 +142,4 @@ for await (const filePath of walkSync(getRootDir())) {
   }
 }
 
-console.log(`Updated moved file links in ${updatedNo}/${totalNo} files.`);
+console.log(`Updating Himanshu Saini moved file links in ${updatedNo}/${totalNo} files.`);
